@@ -5,11 +5,11 @@ I'm a data science enthusiast exploring applications of ML in energy, infrastruc
 Currently focused on:
 
 - Time Series Forecasting
-- Deep Learning (LSTM, CNN)
+- Deep Learning (MLP, LSTM, CNN)
 
 Feel free to connect:
 
-- **Email**: your@email.com
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email**: github@tinybanjo.net
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/taha-malik-41b37ab5/)
 
 [← Back to Home](./index)
