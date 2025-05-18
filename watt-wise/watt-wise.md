@@ -68,11 +68,23 @@ This phase demonstrated my proficiency in wrangling time series data and prepari
 
 **Key tools:** `Scikit-Learn`, `XGBoost`
 
-I built and compared classical models using lagged inputs and environmental variables:
-- **Random Forest**: Captured nonlinear interactions
-- **XGBoost**: Provided excellent performance through and boosting
+I built and compared classical models using lagged inputs and environmental variables, and performed hyperparameter tuning via `GridSearchCV`.
 
-I used MAE, RMSE, and R² as evaluation metrics and performed hyperparameter tuning via `GridSearchCV`.
+- **Random Forest**: Captured nonlinear interactions
+Evaluation metrics:
+MAE:  4.20
+RMSE: 5.11
+MAPE: 5.43%
+R²:   0.5742
+
+- **XGBoost**: Provided excellent performance through and boosting
+Evaluation metrics:
+MAE:  4.44
+RMSE: 5.53
+MAPE: 5.75%
+R²:   0.5005
+
+Note: The Random Forest model also included non-weather related featurea so the performance of the two models are not directly comparable.
 
 ---
 
@@ -87,6 +99,18 @@ I developed two deep learning pipelines:
 - Strength: Simpler to train; effective for shorter forecasts
 
 This models taught me how to structure input for sequence learning, manage overfitting, and tune MLP architectures for real-world signals.
+
+Evaluation metrics:
+MAE:  4.30
+RMSE: 5.39
+MAPE: 5.59%
+R²:   0.5264
+
+Including non-weather related features improved the model and evaluation metrics:
+MAE:  4.08
+RMSE: 4.94
+MAPE: 5.31%
+R²:   0.6015
 
 ---
 
