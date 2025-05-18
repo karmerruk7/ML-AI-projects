@@ -7,7 +7,11 @@ Forecasts hourly and daily energy usage using MLP with weather, occupancy, and s
 - **Model**: SARIMAX, XGBoost, Random forrest, MLP (Keras)
 - **Stack**: Python, pandas, numpy, ski-learn, tensorflow,  Keras, ect
 - **Result**: RMSE = 5.5, R² = 0.4978
+<<<<<<< Updated upstream
 - [More info](./watt-wise/watt.wise)
+=======
+- [More info](./watt-wise/watt-wise)
+>>>>>>> Stashed changes
 - [GitHub](https://github.com/karmerruk7/karmerruk7.github.io/tree/main/watt-wise)
 
 ---
