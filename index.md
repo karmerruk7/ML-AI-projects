@@ -1,6 +1,6 @@
 # Taha Malik
 
-**Machine Learning • Time Series Forecasting • Energy Analytics**
+**Data Scientist • Machine Learning • Time Series Forecasting**
 
 Welcome to my portfolio. I'm passionate about using data and models to drive smart, sustainable solutions.
 
