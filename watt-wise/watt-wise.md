@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-
 # ⚡ Watt Wise – Building Energy Forecasting
 
 Forecasts hourly and daily energy usage using MLP with weather, occupancy, and system usage features.
