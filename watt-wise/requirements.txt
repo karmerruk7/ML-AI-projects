@@ -4,3 +4,7 @@ matplotlib
 seaborn
 statsmodels
 scikit-learn
+tensorflow
+xgboost 
+statsmodels
+
