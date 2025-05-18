@@ -142,8 +142,6 @@ Through Watt Wise, I:
 - **Technical Communication**: Documented, visualized, and explained insights clearly
 - **Deployment-Ready Coding**: Used modular design, reproducible pipelines, and clean code
 
->>>>>>> Stashed changes
-
 ---
 
 [← Back to Home](./index)
