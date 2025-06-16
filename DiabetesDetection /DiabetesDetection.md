@@ -5,7 +5,7 @@ Predicts the likelihood of diabetes using medical and lifestyle features through
 - **Models**: Logistic Regression, Random Forest, XGBoost, MLP (Keras)
 - **Stack**: Python, pandas, numpy, scikit-learn, tensorflow, Keras
 - **BestResult**: F1 Score = 0.81, PR-AUC = 0.891 (XGBoost model)
-- 🔗 [GitHub Repo](https://github.com/karmerruk7/karmerruk7.github.io/tree/main/DiabetesDetection)
+- 🔗 [GitHub Repo](https://github.com/karmerruk7/karmerruk7.github.io/tree/main/DiabetesDetection%20)
 
 ---
 

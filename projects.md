@@ -35,7 +35,7 @@ Classifies diabetes risk based on medical and lifestyle features using both inte
 
 
 - [More info](./DiabetesDetection/DiabetesDetection)
-- [GitHub](https://github.com/karmerruk7/karmerruk7.github.io/tree/main/DiabetesDetection)
+- [GitHub](https://github.com/karmerruk7/karmerruk7.github.io/tree/main/DiabetesDetection%20)
 
 ---
 
